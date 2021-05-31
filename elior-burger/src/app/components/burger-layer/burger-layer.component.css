@@ -1,0 +1,89 @@
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+
+.container {
+  position: absolute;
+  top: 30%;
+  left: 6%;
+  
+}
+
+img {
+  max-height: 200px;
+  max-width: 200px;
+}
+span {
+  font-size: 20px;
+}
+
+button {
+  font-size: 9px;
+  background-color: #d8e2dc;
+}
+
+.eggImg {
+  font-size: 25px;
+}
+
+.button1 {
+  position: absolute;
+  top: 20%;
+  right: 35%;
+}
+
+.button2 {
+  position: absolute;
+  top: 25%;
+  right: 35%;
+}
+
+.button3 {
+  position: absolute;
+  top: 30%;
+  right: 35%;
+}
+
+.button4 {
+  position: absolute;
+  top: 35%;
+  right: 35%;
+}
+
+.button5 {
+  position: absolute;
+  top: 40%;
+  right: 35%;
+}
+
+.button6 {
+  position: absolute;
+  top: 45%;
+  right: 35%;
+}
+
+.price {
+  position: absolute;
+  top: 24%;
+  left: 26%;
+  border: 6px solid #d4a373;
+  background-image: url("../../../assets/whiteBg.jpg");
+  color:#0077b6; 
+  /* background-color:#A1A3A9; */
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 10%;
+  right: 37%;
+  /* background-color: #fefae0; */
+  background-image: url("../../../assets/whiteBg.jpg");
+  border: 6px solid #d4a373;
+}
+

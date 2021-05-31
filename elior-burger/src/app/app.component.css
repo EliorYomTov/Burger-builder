@@ -1,0 +1,14 @@
+.bg {
+    /* The image used */
+    background-image: url("../assets/bg.jpg");
+  
+    /* Full height */
+    /* height: 100%; */
+    width: 100%;
+  height:660px;
+  
+    /* Center and scale the image nicely */
+    /* background-position: ; */
+    background-repeat: repeat;
+    background-size: contain;
+  }
